@@ -1,5 +1,5 @@
 # liri-node-app
-
+I use 3 npm packages to create this app
 npm install twitter
 npm install spotify
 npm install request
